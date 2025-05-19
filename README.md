@@ -38,6 +38,6 @@ Este é um projeto simples de conversão de moedas desenvolvido em PHP, com dado
 
 1. Certifique-se de que você tem o XAMPP instalado e com o Apache rodando.
 2. Copie este projeto para a pasta: C:\xampp\htdocs\Conversao-de-Moedas\
-3. No navegador, acesse: http://localhost/Conversao-de-Moedas/pc-down/index.html
+3. No navegador, acesse: http://localhost/Conversao-de-Moedas/conversao/index.html
 4. Digite um valor em reais e clique em **Converter**.
 
