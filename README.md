@@ -1,5 +1,10 @@
 # Conversor de Moedas - PHP + API Banco Central
 
+
+![print-conversor](https://github.com/user-attachments/assets/1e01e18e-0c5b-4ef5-ae0e-26fdcbeeff5d)
+
+
+
 Este é um projeto simples de conversão de moedas desenvolvido em PHP, com dados reais da API do Banco Central do Brasil.
 ---
 
